@@ -1,6 +1,6 @@
 name: borizjersey
 favicon: null
-layout_spectrum: 0.24884
+layout_spectrum: 0
 typography_spectrum: 0.26693
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#cbc9ca'
   brandStrength: 1
   lightness: 1
-  saturation: 0.5
+  saturation: 0
   rhythmicContrast: 0.25
 purpose: []
