@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[borizjersey]]></title>
         <description><![CDATA[borizjersey]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/borizjersey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 11:44:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 11:54:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/borizjersey/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47dc255e-4660-4f98-8d9c-a36a1aead0ce.jpg" alt="" title="">]]></description>
-            <link>undefined004a44df-cd55-48a3-905c-341b5f68a42c/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5314b158-d9ec-4429-84a2-cb13ce89f411.jpg">]]></description>
+            <link>https://thegrid.ai/borizjersey/004a44df-cd55-48a3-905c-341b5f68a42c/index.html</link>
             <guid isPermaLink="false">004a44df-cd55-48a3-905c-341b5f68a42c</guid>
-            <pubDate>Sun, 17 Jan 2016 11:44:18 GMT</pubDate>
+            <pubDate>Sun, 17 Jan 2016 11:54:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
