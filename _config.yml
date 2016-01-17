@@ -1,7 +1,7 @@
 name: borizjersey
 favicon: null
-layout_spectrum: 0.28401
-typography_spectrum: 0.21146
+layout_spectrum: 0.5506023555062711
+typography_spectrum: 0.355677051236853
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#74221a'
-    - '#acacac'
-    - '#fefefe'
-    - '#c39239'
-    - '#717171'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.258704716572538
+  lightness: 0.2787631517276168
+  saturation: 0.9050951714161783
+  rhythmicContrast: 0.7933635867666453
 purpose: []
